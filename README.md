@@ -6,7 +6,7 @@
 
 ## Mais informações leia
 
- * https://github.com/aleal/rsxp-back
+ * https://github.com/aleal/rsxp
 
 
 # rsxp-back
