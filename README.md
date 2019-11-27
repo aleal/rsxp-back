@@ -1,4 +1,4 @@
-<h1 align="center">RS/XP</h1>
+<h1 align="center">RS/XP-BACK</h1>
 
 ## Objetivo Resumido
 
