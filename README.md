@@ -9,7 +9,7 @@
  * https://github.com/aleal/rsxp
 
 
-# rsxp-back
+## Como instalar:
 ```shell 
 #install libs
 npm install
